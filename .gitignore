@@ -1,0 +1,8 @@
+.venv/
+catboost_info/
+__pycache__/
+*.Identifier
+train-test.csv
+validation.csv
+december-chart-inputs.csv
+validation-predictions-template.csv
