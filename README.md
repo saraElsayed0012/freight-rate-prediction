@@ -71,3 +71,4 @@ leak market conditions, so the split is by time: train on Jan-Aug, test on Sep-O
 The chart input is one fixed load (Lexington to Fort Wayne, 360 miles, Dry Van, 32,000 lb) for every day
 of December, so only the date changes. The only date effect that repeats into December is the weekday
 (mid-week loads cost about 2% more than Sunday/Monday), which gives the weekly pattern in the chart.
+# freight-rate-prediction
